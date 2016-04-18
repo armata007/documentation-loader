@@ -1,6 +1,6 @@
 {
   "name": "documentation-loader",
-  "version": "0.0.1",
+  "version": "0.0.1-alpha",
   "description": "documentation loader (for webpack)",
   "main": "dist/documentation-loader.js",
   "scripts": {
@@ -26,6 +26,6 @@
     "eslint-plugin-react": "^4.3.0"
   },
   "dependencies": {
-    "documentation": "^4.0.0"
+    "documentation": "^4.0.0-beta"
   }
 }
