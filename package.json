@@ -1,10 +1,10 @@
 {
   "name": "documentation-loader",
-  "version": "0.0.1-alpha",
+  "version": "0.1.0-beta",
   "description": "documentation loader (for webpack)",
   "main": "dist/documentation-loader.js",
   "scripts": {
-      "build": "eslint lib/**; babel lib -d dist"
+    "build": "eslint lib/**; babel lib -d dist"
   },
   "repository": "https://github.com/domjtalbot/documentation-loader.git",
   "keywords": [
@@ -26,6 +26,6 @@
     "eslint-plugin-react": "^4.3.0"
   },
   "dependencies": {
-    "documentation": "^4.0.0-beta"
+    "documentation": "^4.0.0-beta2"
   }
 }
