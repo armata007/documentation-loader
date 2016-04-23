@@ -100,10 +100,10 @@ module.exports = {
         ]
     }
     documentation: {
-            entry: './assets/js/*.js .assets/js/**/*.js',
-            github: true,
-            format: 'html',
-            output: './documentation/js'
+        entry: './assets/js/*.js .assets/js/**/*.js',
+        github: true,
+        format: 'html',
+        output: './documentation/js'
     }
 };
 ```
