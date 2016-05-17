@@ -1,6 +1,6 @@
 {
   "name": "documentation-loader",
-  "version": "0.1.1-beta",
+  "version": "0.1.2-beta",
   "description": "documentation loader (for webpack)",
   "main": "dist/documentation-loader.js",
   "scripts": {
